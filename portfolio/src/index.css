@@ -1,13 +1,13 @@
 body {
   margin: 0;
   font-family: "Segoe UI", sans-serif;
-  background-color: #f5f5f5;
+  background-color: #0066ff;
 }
 
 /* Container Card */
 .navbar {
   text-align: center;
-  background: rgb(229, 245, 225);
+  background: #ff0000;
   padding: 30px;
   width: 60%;
   margin: 80px auto;
@@ -16,7 +16,7 @@ body {
 }
 .home {
   text-align: center;
-  background: white;
+  background: #0066ff;
   padding: 30px;
   width: 60%;
   margin: 80px auto;
